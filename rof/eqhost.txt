@@ -1,2 +1,2 @@
 [LoginServer]
-Host=login.projecteq.net:5999
+Host=172.72.69.141:5999
