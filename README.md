@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8e5887e7-c15f-4fa6-bec4-4e02c3325c64)
+
+![0](https://github.com/user-attachments/assets/14a8a50b-e1cb-46d2-a059-2da5fb186fdd)
 
 This is a patcher to keep your Corridors of Time installation up to date.
 
